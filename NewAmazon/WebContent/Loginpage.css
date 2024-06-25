@@ -1,0 +1,86 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	font-family:arial;
+	box-sizing:border-box;
+	
+	
+}
+footer{
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	margin-top:40px;
+}
+div{
+	margin
+}
+.image-a{
+	margin-left:560px;
+	margin-top:20px;
+	height:400px;
+	width:340px;
+	border: 2px solid #deddd9;
+    border-radius:7px;
+}
+.image-c{
+margin:20px;
+
+}
+.sig{
+	font-size:1.6rem;
+}
+input{
+	margin:6px;
+	width:200px;
+	border-radius:6px;
+	height:35px;
+	width:300px;
+	
+}
+.entery:hover{
+	border:2px solid #13eddf;
+	padding:10px;
+}
+.int{
+	width:300px;
+	background-color:#edc524;
+	margin-top:20px;
+	border-radius:6px;
+	margin-left:0px;
+}
+.fon{
+	font-size:1rem;
+}
+.second{
+	border:1px solid #deddd9;
+	margin:20px;
+	
+}
+.for{
+	margin:20px;
+}
+.ank{
+	margin:20px;
+}
+.new-b{
+	border:1px solid #deddd9;
+	margin-left:560px;
+	margin-right:540px;
+	margin-top:40px;
+}
+.NewR{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:40px;
+	width:350px;
+	border-radius:8px;
+	border:1px solid #deddd9;
+	margin-left:560px;
+	margin-right:540px;
+	margin-top:40px;
+	
+}
